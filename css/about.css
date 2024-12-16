@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.flex-element {
+    height: 100%;
+}
+
+#left {
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#right {
+    flex-grow: 2;
+}
+
+#header {
+    width: 100%;
+}
+
+.ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+}
+
