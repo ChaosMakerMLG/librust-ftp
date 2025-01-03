@@ -1,7 +1,13 @@
 body {
     display: flex;
     flex-direction: row;
+    margin: 0;
 
+}
+
+html {
+    background-color: black;
+    color: white;
 }
 
 .flex-element {

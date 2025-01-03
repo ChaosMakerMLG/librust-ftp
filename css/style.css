@@ -39,15 +39,16 @@ body {
 }
 
 #wrapper {
-  transition: all 0.6s ease-in-out;
+  transition: all 0.6s cubic-bezier(0.87, 0, 0.13, 1);
+  transform: translateY(80px);
   opacity: 0;
-  transform: translateY(-80px);
-  transform: scale(0.3);
-  transform: translateZ(-30px);
 }
 
 #wrapper.active {
+  transition: all 0.6s cubic-bezier(0.87, 0, 0.13, 1);
+  transform: translateY(0px);
   opacity: 1;
+
 }
 
 #next {
@@ -63,9 +64,12 @@ body {
 }
 
 #form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   width: 400px;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  background-image: radial-gradient(circle at 0% 0%, #373b52, #252736 51%, #1d1e26);
+  height: 150px;
 }
 
 input { border-style: none; background: transparent; outline: none; font-size: 16px;}
@@ -90,13 +94,6 @@ button { padding: 0; background: none; border: none; outline: none; }
   opacity: 1;
 }
 
-form {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
 .input-wrapper {
   position: relative;
   display: flex;
@@ -106,9 +103,9 @@ form {
   margin: 0 auto;
   border-radius: 2px;
   padding: 1.4rem 2rem 1.6rem;
-  background-color: rgba(57, 63, 84, 0.8);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-image: radial-gradient(circle at 0% 0%, #373b52, #252736 51%, #1f2029);
   &:after {
-    transition: all 1s cubic-bezier(0.87, 0, 0.13, 1);
     content: "";
     position: absolute;
     left: 0px;
@@ -116,13 +113,12 @@ form {
     bottom: 0px;
     z-index: 999;
     height: 2px;
+    /* box-shadow: 1px 1px 50px -10px linear-gradient(to right, #B294FF, #57E6E6); */
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
     background-position: 0% 0%;
     background-image: linear-gradient(to right, #B294FF, #57E6E6);
     background-repeat: no-repeat;
-    -webkit-animation: gradient 3s linear infinite;
-            animation: gradient 3s linear infinite;
   }
 }
 
@@ -132,25 +128,11 @@ form {
   color: var(--input-text-active);
   font-size: 1.8rem;
   line-height: 2.4rem;
-  vertical-align: middle;
-  &::-webkit-input-placeholder {
-    color: var(--input-text-inactive);
-  }
-  &:focus::-webkit-input-placeholder {
-    color: transparent;
-  }
-  &:focus::-moz-placeholder {
-    color: transparent;
-  }
-  &:focus:-ms-input-placeholder {
-    color: transparent;
-  }
-  &:focus::-ms-input-placeholder {
-    color: transparent;
-  }
-  &:focus::placeholder {
-    color: transparent;
-  }
+  vertical-align: middle;  
+}
+
+.input-wrapper input::placeholder {
+  transition: all 0.2s cubic-bezier(0.87, 0, 0.13, 1);
 }
 
 .input-wrapper button {
@@ -194,3 +176,4 @@ form {
   color: whitesmoke;
   font-size: 100px;
 }
+

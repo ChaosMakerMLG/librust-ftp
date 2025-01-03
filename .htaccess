@@ -1,0 +1,15 @@
+# Enable the RewriteEngine
+RewriteEngine On
+
+# Ensure the RewriteBase is correct
+# Update this to your subdirectory if not in the root, e.g., /subdir/
+RewriteBase /
+
+# Rule to internally rewrite clean URLs to .php files
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# Optional: Redirect requests with .php to clean URLs
+RewriteCond %{THE_REQUEST} \s/([^\s]+)\.php
+RewriteRule ^(.*)\.php$ /$1 [R=301,L]

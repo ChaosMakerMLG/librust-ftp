@@ -1,5 +1,9 @@
 <?php 
 
+ini_set('display_errors', '1');
+ini_set('display_startup_errors', '1');
+error_reporting(E_ALL);
+
 if (!isset($_GET['confirm']) || $_GET['confirm'] !== 'true') {
   header('Location: /');
   exit;
@@ -11,8 +15,8 @@ ini_set('display_startup_errors', '1');
 error_reporting(E_ALL);
 
 
-$conn = mysqli_connect('localhost', 'admin1', 'zaq1@WSX', 'student_system');
-/* $conn = mysqli_connect('localhost', 'Admin', 'c4ruzx6nAzca', 'student_system'); */
+/* $conn = mysqli_connect('localhost', 'admin1', 'zaq1@WSX', 'student_system'); */
+$conn = mysqli_connect('localhost', 'Admin', 'c4ruzx6nAzca', 'student_system');
 
 $stmt = $conn->prepare('SELECT token FROM tokens WHERE date > (NOW() - INTERVAL 10 MINUTE) ORDER BY date DESC LIMIT 1');
 
@@ -20,23 +24,19 @@ $stmt->execute();
 
 $result = $stmt->get_result();
 
+if($_GET['token'] === 'debug') {
+  validateSession('debug');
+}
 
-if ($result == NULL) {
+if ($result == NULL || $row == NULL) {
   tokenError('Mysql error');
 }
 
 mysqli_close($conn);
 
 $row = mysqli_fetch_assoc($result);
-
 $token = $row['token'];
 
-if($_GET['token'] === 'debug') {
-  validateSession('debug');
-}
-else if($_GET['token'] === $token) {
-  validateSession($_GET['token']);
-}
 
 if(empty($_GET['token'])) {
   setcookie('jok', 'niet', time() + (30000), 'index.php');
@@ -57,9 +57,9 @@ function validateSession($token){
 }
 
 function tokenError($token) {
+  setcookie('anim', 'yas', 0, '/');
   generateLog($token, 'failed');
   header('Location: /?error=Incorrect token');
-  session_destroy();
   exit;
 }
 
