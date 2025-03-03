@@ -1,0 +1,335 @@
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Kamil Olszewski - Failure (user already exists) from host 192.168.196.112
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   9882  12353 --:--:-- --:--:-- --:--:-- 36000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Magda Gesler - Success from host 192.168.196.112
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   4563   5704 --:--:-- --:--:-- --:--:-- 12000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_ERUbHNQ7 and credentials_ERUbHNQ7 deleted successfully.
+add_user.sh: line 131: kill: (50665) - No such process
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Kamil Olszewski - Success from host 192.168.0.151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20  11644  14556 --:--:-- --:--:-- --:--:-- 36000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Kamil Olszewski - Failure (user already exists) from host 192.168.0.151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20  12470  15588 --:--:-- --:--:-- --:--:-- 36000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_T8zOXI0P and credentials_T8zOXI0P deleted successfully.
+add_user.sh: line 131: kill: (54917) - No such process
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Julia Majewska - Success from host 192.168.0.151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   1444   1806 --:--:-- --:--:-- --:--:--  3600
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_j4QfYsuM and credentials_j4QfYsuM deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Jesus Garcia - Success from host 192.168.0.151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2125   2656 --:--:-- --:--:-- --:--:--  5142
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_m9qsMU8X and credentials_m9qsMU8X deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Karol Majewski - Success from host 192.168.0.151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2120   2650 --:--:-- --:--:-- --:--:--  5142
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_mSaQfLbP and credentials_mSaQfLbP deleted successfully.
+add_user.sh: line 141: kill: (58696) - No such process
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Testowy Test - Success from host 192.168.0.151
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   6024   7530 --:--:-- --:--:-- --:--:-- 18000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_aNwgIyHz and credentials_aNwgIyHz deleted successfully.
+add_user.sh: line 141: kill: (58854) - No such process
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Kamil Olszewski - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   1176   1470 --:--:-- --:--:-- --:--:--  2769
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_NmeUsQo7 and credentials_NmeUsQo7 deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Marjan Loczek - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2228   2785 --:--:-- --:--:-- --:--:--  5142
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_Tv5UYzNj and credentials_Tv5UYzNj deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Maciej Wasiak - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2309   2887 --:--:-- --:--:-- --:--:--  6000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_oonpk1ds and credentials_oonpk1ds deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Mariusz Zenonski - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2373   2967 --:--:-- --:--:-- --:--:--  6000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_EhSS03Ro and credentials_EhSS03Ro deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Maja Morowicz - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20    902   1128 --:--:-- --:--:-- --:--:--  2117
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_KPV3b7qg and credentials_KPV3b7qg deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Bann Nabb - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2432   3040 --:--:-- --:--:-- --:--:--  6000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_xTKTPmuk and credentials_xTKTPmuk deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Moja Praca - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2444   3055 --:--:-- --:--:-- --:--:--  6000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_qCcMySmi and credentials_qCcMySmi deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Limak Ikswezslo - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2048   2560 --:--:-- --:--:-- --:--:--  5142
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_KrMuA3lX and credentials_KrMuA3lX deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Nugget Black - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2279   2849 --:--:-- --:--:-- --:--:--  6000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_Y5Nr0BGp and credentials_Y5Nr0BGp deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Moy Gud - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2429   3037 --:--:-- --:--:-- --:--:--  6000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Moy Gud - Failure (user already exists) from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   7236   9045 --:--:-- --:--:-- --:--:-- 18000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_BZcTwRu8 and credentials_BZcTwRu8 deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Man Nam - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2459   3074 --:--:-- --:--:-- --:--:--  6000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Man Nam - Failure (user already exists) from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   7759   9699 --:--:-- --:--:-- --:--:-- 18000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Man Nam - Failure (user already exists) from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   9211  11514 --:--:-- --:--:-- --:--:-- 36000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Man Nam - Failure (user already exists) from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   8943  11179 --:--:-- --:--:-- --:--:-- 36000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_nWQ11GE2 and credentials_nWQ11GE2 deleted successfully.
+WebSocket server stopped.
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Kamil Olszewski - Success from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   2153   2691 --:--:-- --:--:-- --:--:--  5142
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+Starting script execution...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+# Kamil Olszewski - Failure (mail already in use) from host 192.168.1.64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    36    0    16  100    20   9592  11990 --:--:-- --:--:-- --:--:-- 36000
+{"success":true}Data processed. Waiting 1 minute before deleting the tables...
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Tables students_ZA4YdIWG and credentials_ZA4YdIWG deleted successfully.
+add_user.sh: line 147: kill: (9779) - No such process
+WebSocket server stopped.

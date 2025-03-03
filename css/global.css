@@ -1,0 +1,17 @@
+html * {
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+    font-family: "Fira Code", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+
+    --background-color: #1D1E26;
+    --primary-popup-color: #252736;
+    --primary-color: #9E7AFC;
+    --transition-color: #B294FF;
+    --secondary-color: #57E6E6;
+    --primary-text-color: #BFD2FF;
+    --secondary-text-color: #7881A1;
+}
+
